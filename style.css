@@ -1,0 +1,13 @@
+:root{
+    --color-bg: #1f2937;
+    --color-bttn: #3882f6;
+    --color-bg2: #e5e7eb;
+    --color-qt-text: #1f2937;
+    --color-hdr-text: #f9faf8;
+}
+
+*{
+    border: 1px solid black;
+    box-sizing: border-box;
+  }
+
